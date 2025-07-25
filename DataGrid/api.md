@@ -62,7 +62,10 @@
 
 ### keyExpr 主键
 
+指定提供键值以访问数据项的键属性。每个键值必须是唯一的，仅当`data`是简单数组时，此属性才适用。
 
+- default：undefined
+- type：String | String[] | undefined
 
 ## Methods
 
