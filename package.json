@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview",
+    "commit": "git add . & git commit -m 'update' & git push -u origin main"
+  },
+  "dependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
