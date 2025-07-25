@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.Cd-3tpCq.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Net/api.md","filePath":"Net/api.md"}'),r={name:"Net/api.md"};function o(s,c,n,p,i,_){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};

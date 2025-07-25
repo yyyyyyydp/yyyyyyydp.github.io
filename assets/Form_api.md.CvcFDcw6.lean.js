@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as l,ae as i}from"./chunks/framework.Cd-3tpCq.js";const c=JSON.parse('{"title":"API","description":"","frontmatter":{},"headers":[],"relativePath":"Form/api.md","filePath":"Form/api.md"}'),t={name:"Form/api.md"};function r(n,a,s,d,p,h){return l(),o("div",null,a[0]||(a[0]=[i("",11)]))}const m=e(t,[["render",r]]);export{c as __pageData,m as default};
